@@ -1,0 +1,8 @@
+Dictionary:
+Dictionary items are ordered, changeable, and does not allow duplicates. 
+They are data structures that allows you to store and manage collections of data in more flexible way.
+Dictionaries are used to store data values in key and value pairs.
+
+Ordered - it means that the items have a defined order, and that order will not change.
+Changeable - it means that we can change, add or remove items after the dictionary has been created.
+No duplicates - dictionaries cannot have two items with the same key.
